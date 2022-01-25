@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "Rhynorater",
+  "address": "0xF84f301891Fe36BAF4B056290B528814dCD83B51",
+  "risk": "G",
+  "title": "Gas Optimization via Unchecked Math",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/75"
+}
