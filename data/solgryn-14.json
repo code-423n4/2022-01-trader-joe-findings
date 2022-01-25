@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "solgryn",
+  "address": "0x2AD67e56D4Bbe60F042A7b288f2A1CEdD7708493",
+  "risk": "G",
+  "title": "\"> 0\" is less efficient than \"!= 0\" for unsigned integers",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/14"
+}
