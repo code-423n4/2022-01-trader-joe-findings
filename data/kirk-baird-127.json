@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "kirk-baird",
+  "address": "0xc07ab0222713175389fd105bb85fa82d8510d13e",
+  "risk": "2",
+  "title": "Re-enterable Code When Making a Deposit to Stake",
+  "issueId": 127,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/127"
+}
