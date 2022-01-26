@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "G",
+  "title": "Use != 0 instead of > 0 when working with uints",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/126"
+}
