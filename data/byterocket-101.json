@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "byterocket",
+  "address": "0xee680e5c2C5251261061F12BA3a5c470D2B6AE83",
+  "risk": "1",
+  "title": "Unspecific Compiler Version Pragma",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/101"
+}
