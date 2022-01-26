@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "G",
+  "title": "user allocations can be removed",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/93"
+}
