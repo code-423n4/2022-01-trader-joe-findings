@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "Owner of LaunchEvent token has the ability to DOS attack the event",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/121"
+}
