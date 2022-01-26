@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "kirk-baird",
+  "address": "0xc07ab0222713175389fd105bb85fa82d8510d13e",
+  "risk": "G",
+  "title": "Gas Optimisation - Reduce storage loads",
+  "issueId": 128,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/128"
+}
