@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "Funen",
+  "address": "0x1b4Cad2Cb2AD1B4dF797AaCf046576A8d75AcD45",
+  "risk": "G",
+  "title": "Use Precision value for saving gas ",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/102"
+}
