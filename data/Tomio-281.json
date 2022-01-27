@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "Tomio",
+  "address": "0xa9F3B26C5Fe081669f88B48a59B370edFDf3e4a1",
+  "risk": "G",
+  "title": "less gas used `_owner` instead of call function `owner()`",
+  "issueId": 281,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/281"
+}
