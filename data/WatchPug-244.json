@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "1",
+  "title": "Unchecked return value for `ERC20.approve` call",
+  "issueId": 244,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/244"
+}
