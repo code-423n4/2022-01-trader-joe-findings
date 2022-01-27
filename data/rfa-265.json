@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "G",
+  "title": "using += to save gas",
+  "issueId": 265,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/265"
+}
