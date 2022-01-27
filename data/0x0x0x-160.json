@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "G",
+  "title": "`RocketJoeStaking.sol#withdraw` has an unneeded require statement",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/160"
+}
