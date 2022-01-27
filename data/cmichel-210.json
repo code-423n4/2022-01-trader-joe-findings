@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "Gas: `RocketJoeStaking.withdraw`",
+  "issueId": 210,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/210"
+}
