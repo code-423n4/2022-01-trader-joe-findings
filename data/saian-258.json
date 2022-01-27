@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "saian",
+  "address": "0x41866fbD59371800a7A6A2e314641CD69Cd7247D",
+  "risk": "1",
+  "title": "Use safeTransferFrom instead of transferFrom",
+  "issueId": 258,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/258"
+}
