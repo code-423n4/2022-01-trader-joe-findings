@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "G",
+  "title": "LaunchEvent does not have to inherit Ownable",
+  "issueId": 150,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/150"
+}
