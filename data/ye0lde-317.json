@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "1",
+  "title": "Anyone can call deposit or withdraw with zero amount (LaunchEvent.sol)",
+  "issueId": 317,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/317"
+}
