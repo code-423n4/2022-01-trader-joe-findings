@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "bobi",
+  "address": "0x8f24b7bee60c5421101e2e596b1008522368920f",
+  "risk": "2",
+  "title": "Unchecked transfers may lead to funds lost.",
+  "issueId": 183,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/183"
+}
