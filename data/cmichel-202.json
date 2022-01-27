@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Uninitialized `RocketJoeStaking.lastRewardTimestamp` can inflate `rJoe` supply",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/202"
+}
