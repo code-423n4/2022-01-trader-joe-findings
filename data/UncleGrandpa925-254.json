@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "UncleGrandpa925",
+  "address": "0x171ea6acDdA2Cb411E4763d71e91b10d96B64f81",
+  "risk": "2",
+  "title": "Lack of checks for data passed into onlyOwner functions",
+  "issueId": 254,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/254"
+}
