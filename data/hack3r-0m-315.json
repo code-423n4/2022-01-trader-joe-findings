@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "3",
+  "title": "transferFrom return value unchecked",
+  "issueId": 315,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/315"
+}
