@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "Meta0xNull",
+  "address": "0xfa2Df13a636b8F2FAaA179785797f1f16fDdF8ED",
+  "risk": "3",
+  "title": "Privilege Escalation by Front Run LaunchEvent initialize() and Replace address _issuer",
+  "issueId": 224,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/224"
+}
