@@ -1,0 +1,9 @@
+{
+  "contest": "Trader Joe contest",
+  "handle": "Funen",
+  "address": "0x1b4Cad2Cb2AD1B4dF797AaCf046576A8d75AcD45",
+  "risk": "G",
+  "title": "Saving more gas by using `immutable phase`",
+  "issueId": 229,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/229"
+}
