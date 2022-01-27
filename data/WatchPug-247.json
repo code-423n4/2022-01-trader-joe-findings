@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "`createRJLaunchEvent()` can be called by anyone with 1 Wei of `_token` and stop others from creating RJLaunchEvent with the same token anymore",
+  "issueId": 247,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/247"
+}
