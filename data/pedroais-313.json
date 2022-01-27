@@ -1,0 +1,9 @@
+{
+  "contest": 79,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "1",
+  "title": "Event for withdraws is never emitted",
+  "issueId": 313,
+  "issueUrl": "https://github.com/code-423n4/2022-01-trader-joe-findings/issues/313"
+}
