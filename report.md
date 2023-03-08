@@ -1,3 +1,11 @@
+---
+sponsor: "Trader Joe"
+slug: "2022-01-trader-joe"
+date: "2022-03-07"
+title: "Trader Joe contest"
+findings: "https://github.com/code-423n4/2022-01-trader-joe-findings/issues"
+contest: 79
+---
 
 # Overview
 
